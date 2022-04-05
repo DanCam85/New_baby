@@ -1036,7 +1036,7 @@ section {
     grid-row: 1;
     padding-right: 0rem !important;
     width: 80%;
-    margin: 0 auto;
+    margin: 0;
   }
   .right-header .name {
     font-size: 2.5rem !important;
