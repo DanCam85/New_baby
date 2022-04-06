@@ -1284,10 +1284,10 @@ section {
     grid-template-columns: repeat(1, 1fr);
   }
   .main-title h2 {
-    font-size: 3rem;
+    font-size: 2rem;
   }
   .main-title h2 span {
-    font-size: 3rem;
+    font-size: 2rem;
   }
   .main-title h2 .bg-text {
     font-size: 4rem;
